@@ -10,3 +10,4 @@
 9. Learn your times table -> Write a function that prints the 9 times table, starting with 0.Prototype: void times table(void);
 10. a + b -> Write a function that adds two integers and returns the result.Prototype: int add(int, int)
 11. 98 Battery Street, the OG -> Write a function that prints all natural numbers from n to 98, followed by a new line.Prototype: void print to 98(int n);Numbers must be separated by a comma, followed by a spaceNumbers should be printed in orderThe first printed number should be the number passed to your function.The last printed number should be 98
+12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself -> Write a function that prints the n times table, starting with 0.Prototype: void print_ times table(int n);If n is greater than 15 or less than 0 the function should not print anything
