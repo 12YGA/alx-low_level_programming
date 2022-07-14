@@ -2,8 +2,7 @@
 
 /**
  * _strncat - Write a function that concatenates two strings. it will use at
-
- *            most n bytes from src
+ * most n bytes from src
  *
  * @dest: This is the output  dest
  * @src: This is the input src
